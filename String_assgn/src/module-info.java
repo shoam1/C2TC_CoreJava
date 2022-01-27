@@ -1,0 +1,2 @@
+module string_assgn {
+}
