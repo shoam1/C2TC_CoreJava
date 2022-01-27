@@ -1,0 +1,2 @@
+module Array_assgn {
+}
