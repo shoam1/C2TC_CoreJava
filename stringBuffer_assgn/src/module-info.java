@@ -1,0 +1,2 @@
+module stringBuffer_assgn {
+}
